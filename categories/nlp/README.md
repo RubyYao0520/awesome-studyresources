@@ -71,6 +71,7 @@
 | 资源 | 类型 | 语言 | 推荐理由 |
 |------|------|------|----------|
 | [Sequence-to-Sequence (seq2seq) Encoder-Decoder Neural Networks, Clearly Explained!!! - StatQuest](https://www.youtube.com/watch?v=L8HKweZIOmg) | 📺 视频 | 🇬🇧 英文 | StatQuest 教程，清晰解释 seq2seq 和 Encoder-Decoder 架构的工作原理，听完醍醐灌顶 |
+| [Visualizing A Neural Machine Translation Model - Jay Alammar](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/) | 📝 博客 | 🇬🇧 英文 | 超赞的可视化博客，用动画清晰展示 seq2seq 和 Attention 机制的工作原理，MIT 深度学习课程推荐 |
 | [PyTorch Seq2Seq Tutorials](https://github.com/bentrevett/pytorch-seq2seq) | 💻 代码 | 🇬🇧 英文 | 完整的 PyTorch seq2seq 实现教程，从基础 Encoder-Decoder 到 Attention 机制，代码清晰易懂，适合动手实践 |
 
 *待添加更多...*
