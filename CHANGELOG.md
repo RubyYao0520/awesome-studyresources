@@ -11,7 +11,9 @@
 #### 优质创作者
 - 🎬 [3Blue1Brown](https://www.youtube.com/@3blue1brown) - 以直观几何可视化著称，把抽象数学概念讲得形象生动，是线代、微积分和神经网络入门的宝藏频道 (贡献者: @ChailynCui)
 
----
+#### 大语言模型 LLM
+- 📱 [与AI结对编程：实用的 Prompt 优化技巧](https://mp.weixin.qq.com/s/88XO2ooWkTuMJhhyQJ12MA) - 分享一些开发中实用的 Prompt 优化技巧，帮助开发者更高效地与 AI 协作 (贡献者: @ChailynCui)
+
 
 ## 2025-12-15
 

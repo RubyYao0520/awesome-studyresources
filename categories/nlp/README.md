@@ -59,7 +59,9 @@
 
 ### Prompt Engineering
 
-*待添加...*
+| 资源 | 类型 | 语言 | 推荐理由 | 贡献者 |
+|------|------|------|----------|--------|
+| [与AI结对编程：实用的 Prompt 优化技巧](https://mp.weixin.qq.com/s/88XO2ooWkTuMJhhyQJ12MA) | 📱 公众号 | 🇨🇳 中文 | 分享一些开发中实用的 Prompt 优化技巧，帮助开发者更高效地与 AI 协作，对我来说挺有用 | ChailynCui |
 
 ### RAG
 
