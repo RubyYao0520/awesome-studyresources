@@ -43,11 +43,13 @@
 | 资源 | 类型 | 语言 | 推荐理由 | 贡献者 |
 |------|------|------|----------|--------|
 | [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!! - StatQuest](https://www.youtube.com/watch?v=zxQyTK8quyY) | 📺 视频 | 🇬🇧 英文 | StatQuest 经典教程，超级清晰讲解 Transformer 神经网络，ChatGPT 的基础架构，可视化讲解通俗易懂，讲的超级好，适合初学者 | ChailynCui |
-| [The Illustrated Transformer - Jay Alammar](https://jalammar.github.io/illustrated-transformer/) | 📝 博客 | 🇬🇧 英文 | 史上最经典的 Transformer 可视化教程，用图解和动画清晰解释 Transformer 架构，被 MIT、Stanford、Harvard 等顶尖大学课程采用 | ChailynCui |
+| [The Illustrated Transformer - Jay Alammar](https://jalammar.github.io/illustrated-transformer/) | 📝 博客 | 🇬🇧 英文 | 史上最经典的 Transformer 可视化教程，用图解和动画清晰解释 Transformer 架构 | ChailynCui |
 
 ### BERT
 
-*待添加...*
+| 资源 | 类型 | 语言 | 推荐理由 | 贡献者 |
+|------|------|------|----------|--------|
+| [BERT Neural Network EXPLAINED! - CodeEmporium](https://www.youtube.com/watch?v=xI0HHN5XKDo) | 📺 视频 | 🇬🇧 英文 | 清晰解释 BERT 神经网络的工作原理，可视化讲解通俗易懂 | ChailynCui |
 
 ### GPT 系列
 

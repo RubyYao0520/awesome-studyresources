@@ -4,6 +4,16 @@
 
 ---
 
+## 2025-12-17
+
+### ✨ 新增资源
+
+#### NLP 自然语言处理
+- 📺 [BERT Neural Network EXPLAINED! - CodeEmporium](https://www.youtube.com/watch?v=xI0HHN5XKDo) - 清晰解释 BERT 神经网络的工作原理，可视化讲解通俗易懂 (贡献者: @ChailynCui)
+
+
+---
+
 ## 2025-12-16
 
 ### ✨ 新增资源
