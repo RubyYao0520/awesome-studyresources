@@ -49,6 +49,7 @@
 
 | 资源 | 类型 | 语言 | 推荐理由 | 贡献者 |
 |------|------|------|----------|--------|
+| [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) - Jay Alammar](https://jalammar.github.io/illustrated-bert/) | 📝 博客 | 🇬🇧 英文 | 用图解清晰解释 BERT、ELMo 等模型如何实现迁移学习，可视化讲解通俗易懂 | ChailynCui |
 | [BERT Neural Network EXPLAINED! - CodeEmporium](https://www.youtube.com/watch?v=xI0HHN5XKDo) | 📺 视频 | 🇬🇧 英文 | 清晰解释 BERT 神经网络的工作原理，可视化讲解通俗易懂 | ChailynCui |
 
 ### GPT 系列

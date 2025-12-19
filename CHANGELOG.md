@@ -4,6 +4,15 @@
 
 ---
 
+## 2025-12-19
+
+### ✨ 新增资源
+
+#### NLP 自然语言处理
+- 📝 [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) - Jay Alammar](https://jalammar.github.io/illustrated-bert/) - 用图解清晰解释 BERT、ELMo 等模型如何实现迁移学习，可视化讲解通俗易懂 (贡献者: @ChailynCui)
+
+---
+
 ## 2025-12-17
 
 ### ✨ 新增资源
