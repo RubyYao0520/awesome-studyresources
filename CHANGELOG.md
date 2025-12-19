@@ -11,6 +11,13 @@
 #### NLP 自然语言处理
 - 📝 [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) - Jay Alammar](https://jalammar.github.io/illustrated-bert/) - 用图解清晰解释 BERT、ELMo 等模型如何实现迁移学习，可视化讲解通俗易懂 (贡献者: @ChailynCui)
 
+#### 优质创作者
+- 📝 [张俊林 - 知乎](https://www.zhihu.com/people/zhang-jun-lin-76/) - 中科院软件所博士，知乎优秀答主和年度新知答主，在 NLP 和深度学习领域有深入见解，文章和回答质量很高，有的文章写的超级好 (贡献者: @ChailynCui)
+
+### 🏗️ 项目结构
+
+- 优质创作者分类新增"知乎"子分类
+
 ---
 
 ## 2025-12-17
