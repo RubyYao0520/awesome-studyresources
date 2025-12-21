@@ -13,6 +13,7 @@
 
 #### 学习工具
 - 🔧 [Snipaste](https://zh.snipaste.com/) - 强大的截图+贴图工具，支持像素级控制、取色器、历史记录、图片标注等功能，贴图功能特别适合程序员和设计师，能显著提升工作效率 (贡献者: @ChailynCui)
+- 🔧 [Octotree - GitHub code tree](https://chromewebstore.google.com/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc) - GitHub 代码浏览神器，提供 IDE 风格的代码树、快速搜索、书签功能，支持私有仓库和 GitHub Enterprise，大幅提升代码阅读和审查效率 (贡献者: @ChailynCui)
 
 ---
 
