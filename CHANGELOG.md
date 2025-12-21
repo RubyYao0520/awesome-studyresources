@@ -8,6 +8,9 @@
 
 ### ✨ 新增资源
 
+#### 深度学习
+- 📝 [Variational Auto-Encoder, VAE](https://blog.csdn.net/m0_56942491/article/details/136265500) - 变分自编码器VAE的详细介绍，里面的参考文献可以帮助理解基本概念，值得一读 (贡献者: @aosenZh)
+
 #### 学习工具
 - 🔧 [Snipaste](https://zh.snipaste.com/) - 强大的截图+贴图工具，支持像素级控制、取色器、历史记录、图片标注等功能，贴图功能特别适合程序员和设计师，能显著提升工作效率 (贡献者: @ChailynCui)
 
